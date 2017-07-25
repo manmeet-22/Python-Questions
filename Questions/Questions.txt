@@ -1,0 +1,11 @@
+Q1. Design a payroll sys for an organisation prompt the user to enter 3 values -
+            a. hourly-pay rate
+            b. hours_worked
+            c. percen_withheld_sal
+   -The program multiplies the hourly pay rate by the no. of hours worked, giving the gross wage.
+   -Multiply the gross wage with withheld percentage giving withholding amt.
+   -Finally subtract the withholding amt from the gross wage giving the net wage after taxes.
+   -The program outputs the net pay.
+Q2. Create farnheit to calcius converter and vise versa.
+Q3. Input radius. The program calculates the diameter, circumference and print. 
+Q4. Design a menu driven Calculator.
