@@ -30,3 +30,4 @@ Q12- WAP to extract each character from string.
 Q13- WAP to extract 1st char of each word.
 Q14- WAP to extract last char of each word. 
 Q15 - WAP to validate the user name and pan card number. Stop the execution of the program with a message at every invalid entry.	
+Q16 - WAP to swap adjacent values.
