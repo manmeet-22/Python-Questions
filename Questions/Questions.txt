@@ -22,12 +22,17 @@ Q8. Design a payroll sys for an organisation prompt the user to enter 3 values -
    -Finally subtract the withholding amt from the gross wage giving the net wage after taxes.
    -The program outputs the net pay.
 	
-   if any employ works for more than 40 hrs than pay 1.5 times . for the extra work hrs.
+   if any employ works for more than 40 hrs than pay 1.5 times . for the extra 	work hrs.
 Q9. WAP sum of series 1/1!+4/4!+27/27!....
-Q10. WAP that accepts a string and calculates the uppercase and lower case letters.
+Q10. WAP that accepts a string and calculates the uppercase and lower case 	letters.
 Q11. WAP that accepts a hyphen seperated seq of words as input and prints the word in an hyphen seperated seq after sorting it
 Q12- WAP to extract each character from string.
 Q13- WAP to extract 1st char of each word.
 Q14- WAP to extract last char of each word. 
-Q15 - WAP to validate the user name and pan card number. Stop the execution of the program with a message at every invalid entry.	
-Q16 - WAP to swap adjacent values.
+Q15 - WAP to validate the user name and pan card number. Stop the execution of the 	program with a message at every invalid entry.	
+Q16 - WAP to convert lowercase to uppercase and vice versa.
+Q17 - WAP to find factors of a number.
+Q18 - Remove the words from first string given in the second string.	
+Q19 - 
+Q20 -
+Q21 -
