@@ -1,0 +1,38 @@
+Q1. Design a payroll sys for an organisation prompt the user to enter 3 values -
+            a. hourly-pay rate
+            b. hours_worked
+            c. percen_withheld_sal
+   -The program multiplies the hourly pay rate by the no. of hours worked, giving the gross wage.
+   -Multiply the gross wage with withheld percentage giving withholding amt.
+   -Finally subtract the withholding amt from the gross wage giving the net wage after taxes.
+   -The program outputs the net pay.
+Q2. Create farnheit to calcius converter and vise versa.
+Q3. Input radius. The program calculates the diameter, circumference and print. 
+Q4. Design a menu driven Calculator.
+Q5. Get the inout from the user and check if the input is isdigit() or not.
+Q6. Prompt the user for 2 variables. Evaluate for less than , greater than and equal to.
+Q7. WAP to prompt a score between 0.0 to 1. if the score is out of range print an error msg.
+	if the score is between 0.0 and 1 then prnt the grade accordingly.	 
+Q8. Design a payroll sys for an organisation prompt the user to enter 3 values -
+            a. hourly-pay rate
+            b. hours_worked
+            c. percen_withheld_sal
+   -The program multiplies the hourly pay rate by the no. of hours worked, giving the gross wage.
+   -Multiply the gross wage with withheld percentage giving withholding amt.
+   -Finally subtract the withholding amt from the gross wage giving the net wage after taxes.
+   -The program outputs the net pay.
+	
+   if any employ works for more than 40 hrs than pay 1.5 times . for the extra 	work hrs.
+Q9. WAP sum of series 1/1!+4/4!+27/27!....
+Q10. WAP that accepts a string and calculates the uppercase and lower case 	letters.
+Q11. WAP that accepts a hyphen seperated seq of words as input and prints the word in an hyphen seperated seq after sorting it
+Q12- WAP to extract each character from string.
+Q13- WAP to extract 1st char of each word.
+Q14- WAP to extract last char of each word. 
+Q15 - WAP to validate the user name and pan card number. Stop the execution of the 	program with a message at every invalid entry.	
+Q16 - WAP to convert lowercase to uppercase and vice versa.
+Q17 - WAP to find factors of a number.
+Q18 - Remove the words from first string given in the second string.	
+Q19 - Enter a string example chitkara and print it like {'C': 'i', 'H': 't', 'I': 	'k', 'T': 'a', 	'K': 'r', 'A': 'a'}.
+Q20 - 
+Q21 -
