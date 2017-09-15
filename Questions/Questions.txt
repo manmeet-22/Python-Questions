@@ -33,6 +33,6 @@ Q15 - WAP to validate the user name and pan card number. Stop the execution of t
 Q16 - WAP to convert lowercase to uppercase and vice versa.
 Q17 - WAP to find factors of a number.
 Q18 - Remove the words from first string given in the second string.	
-Q19 - 
-Q20 -
+Q19 - Enter a string example chitkara and print it like {'C': 'i', 'H': 't', 'I': 	'k', 'T': 'a', 	'K': 'r', 'A': 'a'}.
+Q20 - 
 Q21 -
