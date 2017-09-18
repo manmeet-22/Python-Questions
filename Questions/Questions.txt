@@ -34,5 +34,5 @@ Q16 - WAP to convert lowercase to uppercase and vice versa.
 Q17 - WAP to find factors of a number.
 Q18 - Remove the words from first string given in the second string.	
 Q19 - Enter a string example chitkara and print it like {'C': 'i', 'H': 't', 'I': 	'k', 'T': 'a', 	'K': 'r', 'A': 'a'}.
-Q20 - 
-Q21 -
+Q20 - Count the number of objects in a class.
+Q21 - WAP using class concept, create emp db with the entity name,sal and dept. 	Count the number of emp whose dB is entered by the user.
