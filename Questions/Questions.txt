@@ -38,3 +38,4 @@ Q20 - Count the number of objects in a class.
 Q21 - WAP using class concept, create emp db with the entity name,sal and dept. 		Count the number of emp whose dB is entered by the user.
 Q22 - WAP to call a class method from another method.
 Q23 -  WAP to store name and marks .Use list to store the marks of 3 subs using 	list function.
+Q24 - WAP a program to insert space between the alphabets of a word by inheriting str class.
